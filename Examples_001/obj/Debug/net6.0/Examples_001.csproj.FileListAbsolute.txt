@@ -1,0 +1,15 @@
+/home/egorov/Desktop/Examples/Examples_001/bin/Debug/net6.0/Examples_001
+/home/egorov/Desktop/Examples/Examples_001/bin/Debug/net6.0/Examples_001.deps.json
+/home/egorov/Desktop/Examples/Examples_001/bin/Debug/net6.0/Examples_001.runtimeconfig.json
+/home/egorov/Desktop/Examples/Examples_001/bin/Debug/net6.0/Examples_001.dll
+/home/egorov/Desktop/Examples/Examples_001/bin/Debug/net6.0/ref/Examples_001.dll
+/home/egorov/Desktop/Examples/Examples_001/bin/Debug/net6.0/Examples_001.pdb
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.csproj.AssemblyReference.cache
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.GeneratedMSBuildEditorConfig.editorconfig
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.AssemblyInfoInputs.cache
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.AssemblyInfo.cs
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.csproj.CoreCompileInputs.cache
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.dll
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/ref/Examples_001.dll
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.pdb
+/home/egorov/Desktop/Examples/Examples_001/obj/Debug/net6.0/Examples_001.genruntimeconfig.cache
